@@ -1,0 +1,137 @@
+*{
+    font-family: 'HK Grotesk', sans-serif;
+}
+
+.wrapper{
+    width: 100%;
+}
+
+.container{
+    max-width: 1040px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 40px;
+    padding: 20px 0px;
+}
+
+.logo{
+    color: #335EEA;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.mid-navbar a{
+    text-decoration: none;
+    padding: 8px 24px;
+    font-size: 17px;
+    color: #506690;
+}
+
+.navbar-button button{
+    background-color: #335EEA;
+    color: White;
+    font-weight: 600;
+    width: 97px;
+    height: 47px;
+    border-radius: 10px;
+    border: 0px;
+    cursor: pointer;
+}
+
+.container-page1{
+    max-width: 1040px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-left1 h1{
+    font-size: 48px;
+    margin: 0px 0px 16px;
+}
+
+.content-left1 span{
+    color: #335eea;
+}
+
+.text-page1{
+    color: #869AB8;
+    font-size: 21px;
+    margin: 0px 0px 48px;
+}
+
+.content-right1 img{
+    width: 572px;
+}
+
+.button-page1{
+    /* position: relative; */
+}
+
+.button-page1 a{
+    text-decoration: none;
+}
+
+.button1{
+    width: 182px;
+    height: 56px;
+    background-color: #335eea;
+    color: white;
+    border:0px;
+    border-radius:5px;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.icon{
+    position: absolute;
+}
+
+.button-page1 .button2{
+    width: 158px;
+    height: 55px;
+}
+
+.button2{
+    background-color: rgba(51,94,234,.1);
+    color: #335eea;
+    border: 0px;
+    border-radius: 5px;
+    padding: 13px 20px;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.row-container-page2{
+    width: 1040px;
+    margin: 0px auto;
+    padding: 96px 0px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.container-page2{
+    padding: 0px 20px;
+}
+
+.text-page2 h3{
+    font-size: 21px;
+}
+
+.text-page2 p{
+    color: #869ab8!important;
+    font-size: 17px;
+}
+
+.icon2{
+    margin: 0px 0px 12px;
+}
+
+.icon-page2{
+    width: 45px;
+    height: 45px;
+    /* margin: 0px 0px 12px; */
+}
